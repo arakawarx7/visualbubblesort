@@ -1,0 +1,13 @@
+.arrayDiv{
+  display: inline-block;
+  height: 100px;
+  width: 60px;
+  border: 1px dotted gray;
+  background-color: lightgreen;
+
+
+}
+
+.clickMe{
+
+}
